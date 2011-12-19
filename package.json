@@ -1,5 +1,5 @@
 { 
-  "name" : "forrest", 
+  "name" : "forest", 
   "version" : "0.0.1", 
   "description" : "A collection of tree implementations. SplayTree, FusionTree, BTree, etc.", 
   "author" : "hij1nx <hij1nx@nodejitsu.me>", 
